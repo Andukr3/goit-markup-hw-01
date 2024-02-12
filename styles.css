@@ -98,8 +98,66 @@ color: var(--state);
     letter-spacing: 0.4px;
     color: var(--navyblue);
 }
-.benefits-text{
+.team-profession{
         font-size: 16px;
         line-height: 1,5;
         letter-spacing: 0.32px;
 }
+.team-list-item{
+    background: var(--cloud);
+}
+.team-name{
+    background-color: var(--white);
+}
+.team-member-name{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    color: var(--navyblue);
+}
+.team-profession{
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0.32px;
+    }
+
+    .footer{
+        background-color: var(--navyblue);
+    }
+    .page-logo-footer{
+        color: var(--cloud);
+    }
+    .text{
+    font-size: 16px;
+    line-height: 1, 5;
+    letter-spacing: 0.32px;
+    }
+    .filter button{
+        background-color: var(--cloud);
+        font-family: "Roboto",sans-serif;
+        border-style: none;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.64px;
+        color: var(--ocean);
+    }
+    .filter-button:hover,
+    .filter-button:focus{
+        background-color: var(--ocean);
+        color: var(--white);
+    }
+    .projekts-title{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.4px;
+        color: var(--navyblue);
+    }
+    .projekts-tag{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.32;
+        color: var(--slate);
+    }
