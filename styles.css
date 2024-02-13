@@ -25,8 +25,8 @@ body {
     cursor: pointer;
 }
 
-.order:hover,
-:focus {
+.order:hover,:focus 
+{
     background-color: #404bbf;
 }
 
@@ -75,10 +75,6 @@ body {
     color: #404bbf;
 }
 
-/* main */
-
-/* first section */
-
 .first-section {
     background-color: #2e2f42;
     text-align: center;
@@ -93,9 +89,7 @@ body {
     color: #ffffff;
 }
 
-/* second section */
 
-.second-section {}
 
 .second-header {
     font-family: 'Roboto', sans-serif;
@@ -122,7 +116,9 @@ body {
     letter-spacing: 0.02em;
 }
 
-/* third section */
+
+
+
 .third-section {
     background-color: #f4f4fd;
 }
@@ -139,7 +135,7 @@ body {
     background-color: #2e2f42;
 }
 
-.ftr-logo {
+.section-footer {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -149,11 +145,11 @@ body {
     color: #4d5ae5;
 }
 
-.ftr-studio {
+.studio-first {
     color: #f4f4fd;
 }
 
-.ftr-text {
+.text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
