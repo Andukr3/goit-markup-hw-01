@@ -81,7 +81,7 @@ button {
     text-align: center;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
     color: var(--white);
 }
 
@@ -91,7 +91,7 @@ button {
     background-color: var(--iris);
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     color: var(--white);
 }
 
@@ -113,14 +113,14 @@ button {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
     color: var(--navyblue);
 }
 
 .benefits-text {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .team {
@@ -142,7 +142,7 @@ button {
 .team-member-position {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .footer {
@@ -189,6 +189,6 @@ button {
 .projects-tag {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     color: var(--slate);
 } 
